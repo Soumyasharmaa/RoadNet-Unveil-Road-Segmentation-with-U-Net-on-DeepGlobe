@@ -10,7 +10,7 @@ In disaster-prone regions, particularly in developing countries, the availabilit
 
 This dataset serves as a critical resource for training and evaluating road segmentation models, enabling the development of solutions that can aid disaster response efforts.
 
-![Sample Image](https://drive.google.com/file/d/1KnqvsFqlez8ACkWrINwi13sjyYtOqShs/view?usp=drive_link)
+![Sample Image](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/2704_sat.jpg?raw=true)
 *Sample satellite image from the DeepGlobe Road Extraction Challenge dataset.*
 
 For more details about the dataset and how to access it, https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset.
