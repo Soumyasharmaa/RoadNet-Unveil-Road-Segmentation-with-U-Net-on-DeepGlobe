@@ -137,9 +137,16 @@ After training the U-Net model, the following metrics were obtained:
 Here are some sample predictions made by the U-Net model on the satellite imagery:
 
 ![Prediction 1](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 2](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 3](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 4](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 5](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 6](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 7](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 8](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 9](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
+![Prediction 10](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%201.png?raw=true)
 
-
-These predictions demonstrate the model's ability to extract roads from the input imagery.
 
 
 
