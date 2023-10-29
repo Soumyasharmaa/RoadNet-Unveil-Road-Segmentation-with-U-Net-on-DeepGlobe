@@ -145,8 +145,7 @@ Here are some sample predictions made by the U-Net model on the satellite imager
 ![Prediction 7](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%207.png?raw=true)
 ![Prediction 8](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%208.png?raw=true)
 ![Prediction 9](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%209.png?raw=true)
-![Prediction 10](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%210.png?raw=true)
-
+![Prediction 10](https://github.com/Soumyasharmaa/RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe/blob/main/Sample%2010.png?raw=true)
 
 
 
