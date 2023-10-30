@@ -1,7 +1,7 @@
 # RoadNet-Unveil-Road-Segmentation-with-U-Net-on-DeepGlobe
 ## About the Dataset
 
-In disaster-prone regions, particularly in developing countries, the availability of maps and accessibility information is paramount for efficient crisis response. The DeepGlobe Road Extraction Challenge addresses this need by presenting the task of automatically extracting road and street networks from satellite imagery.
+In disaster-prone regions, particularly in developing countries, the availability of maps and accessibility information is paramount for efficient crisis response. The DeepGlobe Road Extraction dataset addresses this need by presenting the task of automatically extracting road and street networks from satellite imagery.
 
 ### Data Overview
 
